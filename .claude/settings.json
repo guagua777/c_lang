@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(gcc --version)",
+      "Bash(clang --version)",
+      "Bash(cmake --version)"
+    ]
+  }
+}
